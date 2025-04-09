@@ -1,7 +1,6 @@
 # Hangman Game
 
-A **React app** where entering letters leads to finding a word, coreect guesses lead to victory while incorrect guesses incrementally introduce new body parts of a hanging man inevitably leading to death **MVPs** and **Vacation Spots** dynamically.
-
+A **React app** where entering letters leads to finding a word, coreect guesses lead to victory while incorrect guesses incrementally introduce new body parts of a hanging man inevitably leading to death 
 ---
 
 ##  **How to Install & Run the App**
